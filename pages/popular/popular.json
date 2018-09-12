@@ -1,0 +1,8 @@
+{
+  "usingComponents" : {
+    "header" : "/component/classic-header/index",
+    "movie": "/component/classic/movie/index",
+    "essay": "/component/classic/essay/index",
+    "music": "/component/classic/music/index"
+  }
+}

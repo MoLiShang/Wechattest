@@ -1,0 +1,20 @@
+<!--
+<import src="../../template/template.wxml" />
+<view class="container" bind:tap='onLastOne'>
+  <tag> </tag>
+  <view data-classic="{{classicdata}}" class="popular-container">
+    <template is="head" data="{{classicdata}}" />
+    <template is="movie" data="{{classicdata}}" />
+  </view>
+  <view class="button">
+    <image class="last-bt" src="/images/icon/上一个@2x.png" catchtap='onLastOne'></image>
+    <text class="word-bt">李安《饮食男女》</text>
+    <image class="last-bt" src="/images/icon/下一个@2x.png" catchtap='onNextOne'></image>
+  </view>
+</view>
+-->
+<import src="../../template/template.wxml" />
+<view class="container">
+  <!-- <header /> -->
+  <movie />
+</view>

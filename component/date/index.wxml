@@ -1,0 +1,16 @@
+ <view class="date-number">
+      <view class="number">
+        <text>No.</text>
+        <text class="highlight">{{day}}</text>
+      </view>
+      <view class="line"></view>
+      <!--日期和时间-->
+      <view class="date">
+        <text class="month">
+        {{month}}
+      </text>
+        <text class="year">
+        {{year}}
+      </text>
+      </view>
+    </view>

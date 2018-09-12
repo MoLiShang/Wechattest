@@ -1,0 +1,7 @@
+<view class="header">
+  <date />
+  <view class="share-like">
+   <like />
+  <image class="share" src="/images/icon/share.png" />
+  </view>
+</view>

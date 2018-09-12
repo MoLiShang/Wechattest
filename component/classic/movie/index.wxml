@@ -1,0 +1,5 @@
+<view class="movie">
+  <image class="poster" src="/images/others/《饮食男女》@2x.png"></image>
+  <image class="tags" src="/images/others/电影。@2x.png"></image>
+  <text class="words">人生不能像做菜，把所有的料准备好才下锅</text>
+</view>

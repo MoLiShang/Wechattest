@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "like":"/component/like/index",
+    "date":"/component/date/index",
+  }
+}

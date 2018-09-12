@@ -1,0 +1,37 @@
+{
+  "pages" : [
+    "pages/popular/popular",
+    "pages/booklist/booklist",
+    "pages/like/like"
+  ],
+  "window":{
+    "navigationBarBackgroundColor":"#FFF",
+    "navigationBarTitleText":"艾夜旧岛",
+    "navigationBarTextStyle":"black"
+  },
+  "tabBar" : {
+    "backgroundColor" : "white",
+    "borderStyle" : "black",
+    "position":"bottom",
+    "list" : [
+      {
+        "pagePath" : "pages/popular/popular",
+        "text" : "流行",
+        "iconPath" : "images/tab/classic.png",
+        "selectedIconPath" : "images/tab/classic@highlight.png"
+      },
+      {
+        "pagePath" : "pages/booklist/booklist",
+        "text" : "书单",
+        "iconPath" : "images/tab/book.png",
+        "selectedIconPath" : "images/tab/book@highlight.png"
+      },
+      {
+        "pagePath": "pages/like/like",
+        "text": "喜欢",
+        "iconPath": "images/tab/my.png",
+        "selectedIconPath": "images/tab/my@highlight.png"
+      }
+    ]
+  }
+}

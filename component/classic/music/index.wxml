@@ -1,0 +1,8 @@
+<view class="music">
+  <view class="poster">
+    <image class="background" src="/images/others/参商.png" /> 
+    <image class="musicControl"  src="{{false?'/images/others/播放中.png':'/images/others/暂停中.png'}}" />
+  </view>
+  <image class="tags" src="/images/others/音乐。@2x.png"></image>
+  <text class="words">谁念过 千字文章 秋收冬已藏</text>
+</view>

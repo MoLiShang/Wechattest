@@ -1,0 +1,5 @@
+<view class="essay">
+   <image class="poster" src="/images/others/再见二丁目.png"></image>
+  <image class="tags" src="/images/others/诗句.png"></image>
+  <text class="words">这个夏天又是一个毕业季</text>
+</view>
